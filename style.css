@@ -11,7 +11,10 @@
 
 }
 
-.maincontainer { float: left}
+.maincontainer { float: left;
+font-size: 18px;
+line-height: 30px;
+}
 
 .name {
 
